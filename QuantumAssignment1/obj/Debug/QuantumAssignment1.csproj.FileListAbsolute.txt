@@ -1,0 +1,6 @@
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\bin\Debug\QuantumAssignment1.exe.config
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\bin\Debug\QuantumAssignment1.exe
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\bin\Debug\QuantumAssignment1.pdb
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\obj\Debug\QuantumAssignment1.csprojAssemblyReference.cache
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\obj\Debug\QuantumAssignment1.exe
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\obj\Debug\QuantumAssignment1.pdb

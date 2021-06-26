@@ -1,0 +1,7 @@
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\bin\Release\QuantumAssignment1.exe.config
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\bin\Release\QuantumAssignment1.exe
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\bin\Release\QuantumAssignment1.pdb
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\obj\Release\QuantumAssignment1.csprojAssemblyReference.cache
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\obj\Release\QuantumAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\obj\Release\QuantumAssignment1.exe
+C:\Users\mortimerk1\source\repos\QuantumAssignment1\obj\Release\QuantumAssignment1.pdb
